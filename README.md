@@ -1,0 +1,1 @@
+# Engulfing-Strategy-with-Dual-MA-Filter
